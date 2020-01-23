@@ -41,7 +41,8 @@ is a real time audio profanity filtered text display.
 
 
 
-How to run the code- 
+# How to run the code- 
+
 In command prompt type "python final_file.py"
 
 
