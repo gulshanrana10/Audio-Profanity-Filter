@@ -34,7 +34,7 @@ TECH STACK-----
 is used to generate a signal generating the intermediate beep sound wave.
 #  final_file.py
 is the final version whose input file is an audio wile in 'Flac' format and can be cloned into the system.
-# combined_wav.py 
+# joining_wav.py 
 is used to combine different moduled wav format audio files.
 # a4.py
 is a real time audio profanity filtered text display.
