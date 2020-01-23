@@ -15,6 +15,7 @@ Filter out profanity/foul words from the audio along with retain the quality of 
 TECH STACK-----
     
    1. Google Cloud Speech To Text in Python.
+   
    2. Audio Pre-Processing in Python PyAudio, ffmpeg and PyDub.
    
    Valuability in various fields------
@@ -31,6 +32,11 @@ TECH STACK-----
   
 # File with name beep.py is used to generate a signal generating the intermediate beep sound wave.
 # File with name final_file.py is the final version whose input file is an audio wile in 'Flac' format and can be cloned into the system.
+# File with name combined_wav.py is used to combine different moduled wav format audio files.
+# File with name a4.py is a real time audio profanity filtered text display.
+
+
+
 How to run the code- 
 In command prompt type "python final_file.py"
 
