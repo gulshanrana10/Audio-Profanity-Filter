@@ -1,7 +1,7 @@
 # Audio-Profanity-Filter
 Filter out profanity/foul words from the audio along with retain the quality of an audio.
 
-# PROBLEM-
+# PROBLEM TACKLED-
 1. No audio censorship for game streaming.
 2. Podcasts and the list goes on …...
 3. Requires all sorts of manual audio censorships which actually is time consuming.
@@ -31,13 +31,13 @@ TECH STACK-----
  # Content---
   
 #  beep.py 
-is used to generate a signal generating the intermediate beep sound wave.
+This is used to generate a signal generating the intermediate beep sound wave.
 #  final_file.py
-is the final version whose input file is an audio wile in 'Flac' format and can be cloned into the system.
+It is the final version whose input file is an audio wile in 'Flac' format and can be cloned into the system.
 # joining_wav.py 
-is used to combine different moduled wav format audio files.
+This is used to combine different moduled wav format audio files.
 # a4.py
-is a real time audio profanity filtered text display.
+It is a real time audio profanity filtered text display.
 
 # WORKFLOW--
 https://docs.google.com/presentation/d/1Y8NCyaMk95sFkZvT9qCwDk_4J9fCzFTISMkFBMRuFF0/edit#slide=id.g7c9cb13d1a_0_22
